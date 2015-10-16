@@ -7,12 +7,16 @@
 				Historique
 			</title>
 
-			<link href="" />
+
+			<!-- Le libellé du css ajouté le 16 octobre 2015 -->
+			<link href="historique.css" />
 		</head>
 
 		<body>
+			<!-- Libellé du h1 ajouté le 16 octobre 2015 -->
 			<header>
 				<h1>
+					Historique
 				</h1>
 			</header>
 			
@@ -21,8 +25,12 @@
 
 			<section class="section_top">
 			</section>
-
+			
+			<!-- Libellé du footer ajouté le 16 octobre 2015 -->
 			<footer>
+				<p>
+					Copyright 2015 par Entreprise Réussite inc.
+				</p>
 			</footer>
 
 			<script>
